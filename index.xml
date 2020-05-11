@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>less is mohr</title>
+    <link>http://less-is-mohr.com/</link>
+    <description>Recent content on less is mohr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2020 21:55:21 +0200</lastBuildDate>
+    
+	<atom:link href="http://less-is-mohr.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>just the right bits</title>
+      <link>http://less-is-mohr.com/sw/</link>
+      <pubDate>Mon, 11 May 2020 21:55:21 +0200</pubDate>
+      
+      <guid>http://less-is-mohr.com/sw/</guid>
+      <description>software is beautiful when it&amp;rsquo;s simple.
+we know technology. your next thing deserves it. batteries included but exchangeable.</description>
+    </item>
+    
+    <item>
+      <title>less is mohr</title>
+      <link>http://less-is-mohr.com/about/</link>
+      <pubDate>Mon, 11 May 2020 21:55:21 +0200</pubDate>
+      
+      <guid>http://less-is-mohr.com/about/</guid>
+      <description>people with strong opinions about software and development processes. run by daniel mohr.</description>
+    </item>
+    
+    <item>
+      <title>shift left now</title>
+      <link>http://less-is-mohr.com/devops/</link>
+      <pubDate>Mon, 11 May 2020 21:55:21 +0200</pubDate>
+      
+      <guid>http://less-is-mohr.com/devops/</guid>
+      <description>it must be simple to run what you built or you won&amp;rsquo;t do it.
+we understand why your dev teams struggle with devops. working with large scale software engineering organisations has shown us what you really need to shift operations and security to the left.</description>
+    </item>
+    
+    <item>
+      <title>you won&#39;t need more</title>
+      <link>http://less-is-mohr.com/min/</link>
+      <pubDate>Mon, 11 May 2020 21:55:21 +0200</pubDate>
+      
+      <guid>http://less-is-mohr.com/min/</guid>
+      <description>keep it simple. but automate everything.
+minimalism is not about enforced reduction. it&amp;rsquo;s about understanding what you really need. and some things are just not negiotiable (like automation).
+we understand your requirements and don&amp;rsquo;t waste your money with unnecessary tech.</description>
+    </item>
+    
+  </channel>
+</rss>

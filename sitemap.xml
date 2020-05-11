@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://less-is-mohr.com/sw/</loc>
+    <lastmod>2020-05-11T21:55:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://less-is-mohr.com/</loc>
+    <lastmod>2020-05-11T21:55:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://less-is-mohr.com/about/</loc>
+    <lastmod>2020-05-11T21:55:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://less-is-mohr.com/devops/</loc>
+    <lastmod>2020-05-11T21:55:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://less-is-mohr.com/min/</loc>
+    <lastmod>2020-05-11T21:55:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://less-is-mohr.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://less-is-mohr.com/tags/</loc>
+  </url>
+  
+</urlset>
